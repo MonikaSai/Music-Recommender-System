@@ -1,0 +1,13 @@
+## Dependencies
+
+Python
+Numpy
+scikit-learn
+scipy
+sparsesvd
+python-csv
+keras
+tensorflow
+random2
+seaborn
+
